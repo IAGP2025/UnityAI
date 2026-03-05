@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "UnityAI.sln"
+    "dotnet.defaultSolution": "UnityAI.slnx"
 }
